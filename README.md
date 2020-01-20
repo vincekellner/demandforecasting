@@ -14,7 +14,7 @@ Different forecasting methods are implemented:
 
 - LSTM-NN (Keras)
 
-- Autoencoder insipred by the work of "Deep and Confident Prediction for Time Series at Uber" by Zhu and Laptev (2017)
+- Autoencoder inspired by the work of "Deep and Confident Prediction for Time Series at Uber" by Zhu and Laptev (2017)
 https://arxiv.org/pdf/1709.01907.pdf
 
 
