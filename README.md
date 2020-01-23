@@ -10,7 +10,7 @@ Different forecasting methods are implemented:
 
 - ARIMA model (statsmodels)
 
-- Feedforward-NN (KERAS)
+- Feedforward-NN (Keras)
 
 - LSTM-NN (Keras)
 
