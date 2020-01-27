@@ -6,7 +6,7 @@ Predictions are made based on a preprocessed dataset of the NYC Taxi and Limousi
 
 Different forecasting methods are implemented:
 
-- Baseline models
+- Baseline models (Random Walk & Canary Model)
 
 - ARIMA model (statsmodels)
 
@@ -19,3 +19,5 @@ https://arxiv.org/pdf/1709.01907.pdf
 
 
 
+## Details to models
+Besides versions of the feedforward-NN and LSTM model which process data of a single area to predict future demand, "multivariate" models are provided. The "multivariate" models are implemented such that a window of past demand is processed to predict future demand for multiple areas at the same time.
