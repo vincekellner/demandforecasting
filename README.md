@@ -19,5 +19,6 @@ https://arxiv.org/pdf/1709.01907.pdf
 
 
 
-## Details to models
+## Details of models
 Besides versions of the feedforward-NN and LSTM model which process data of a single area to predict future demand, "multivariate" models are provided. The "multivariate" models are implemented such that a window of past demand is processed to predict future demand for multiple areas at the same time.
+
