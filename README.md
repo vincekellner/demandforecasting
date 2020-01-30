@@ -1,7 +1,7 @@
 # demandforecasting
 ### Forecast taxi demand for given areas in New York City 
 
-Predictions are made based on a preprocessed dataset of the NYC Taxi and Limousine Commission (TLC) data (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) containing hourly taxi demand from 01/2009 up to 06/2018 for all 263 taxi zones. 
+Predictions are made based on a preprocessed dataset of the NYC Taxi and Limousine Commission (TLC) data (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) containing hourly taxi demand from 01/2009 up to 06/2018 for all 263 taxi zones. A sample of the preprocessed data is provided. In addition, the complete data of the 10 and 20 busiest taxi zones in terms of the overall demand is available.
 
 
 Different forecasting methods are implemented:
